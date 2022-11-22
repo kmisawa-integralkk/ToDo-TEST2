@@ -3,4 +3,4 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/kmisawa-integralkk/ToDo-TEST/issues/new?template=custom.md&projects=kmisawa-integralkk%2FToDo-TEST%2F1&labels=ToDo
+    url: https://github.com/kmisawa-integralkk/ToDo-TEST2/issues/new?template=custom.md&projects=kmisawa-integralkk%2FToDo-TEST2%2F1&labels=ToDo
